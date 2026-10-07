@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>Hudson Valley Houses</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div><h1>Hudson Valley Houses</h1><p id="status">Loading properties…</p></div>
+    <div class="filters" aria-label="Score filters">
+      <button class="filter active" data-score="all">All</button>
+      <button class="filter score5" data-score="5">5</button>
+      <button class="filter score4" data-score="4">4</button>
+      <button class="filter score3" data-score="3">3</button>
+    </div>
+  </header>
+  <main>
+    <div id="map" aria-label="Map of Hudson Valley houses"></div>
+    <aside id="panel">
+      <div id="empty"><strong>Select a house</strong><span>Tap a marker to see the photo, details, Zillow listing and directions.</span></div>
+      <article id="card" hidden>
+        <img id="photo" alt="">
+        <div class="cardBody">
+          <div class="scoreRow"><span id="scoreBadge"></span><span id="region"></span></div>
+          <h2 id="address"></h2>
+          <div id="price"></div>
+          <div id="facts"></div>
+          <div id="features"></div>
+          <p id="comments"></p>
+          <div class="actions">
+            <a id="zillow" target="_blank" rel="noopener noreferrer">View on Zillow</a>
+            <a id="directions" target="_blank" rel="noopener noreferrer">Directions</a>
+          </div>
+        </div>
+      </article>
+    </aside>
+  </main>
+  <footer>House data is a snapshot of the working list. Map © OpenStreetMap contributors.</footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="data/houses.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
