@@ -13,6 +13,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 5,
     "address": "367 Viewmont Road, Germantown, NY 12526",
+    "lat": 42.125625,
+    "lng": -73.867879,
     "zillow": "https://www.zillow.com/homedetails/367-Viewmont-Road-Germantown-NY-12526/30008361_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/ca793e964496802317bca1276b0394c6-cc_ft_1536.webp"
   },
@@ -30,6 +32,8 @@ window.HOUSES = [
     "Comments": "love it but river is across the street. House is close to road",
     "score": 5,
     "address": "38 Van Road, Lexington, NY 12452, USA",
+    "lat": 42.2382,
+    "lng": -74.3363,
     "zillow": "https://www.zillow.com/homedetails/38-Van-Road-Lexington-NY-12452/465420762_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/b7ba57f35a4bf69391af1fb8f452cbf5-cc_ft_1536.webp"
   },
@@ -47,6 +51,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 5,
     "address": "33 Broad Street, Kinderhook, NY 12106",
+    "lat": 42.391371,
+    "lng": -73.701934,
     "zillow": "https://www.zillow.com/homedetails/33-Broad-Street-Kinderhook-NY-12106/299530219_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/ba450ac3b67f2b9fef8d17e3bab1d3ba-cc_ft_1536.webp"
   },
@@ -64,6 +70,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 5,
     "address": "16-18 Broadway, Tivoli, NY 12583",
+    "lat": 42.0574,
+    "lng": -73.9029,
     "zillow": "https://www.zillow.com/homedetails/16-18-Broadway-Tivoli-NY-12583/299944749_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/54a6d4b44176ccabe28196d53a9764cd-cc_ft_1536.webp"
   },
@@ -115,6 +123,8 @@ window.HOUSES = [
     "Comments": "Kris loves, Brian needs convincing",
     "score": 5,
     "address": "433 Rapp Road N, Valatie, NY 12184",
+    "lat": 42.468461,
+    "lng": -73.67785,
     "zillow": "https://www.zillow.com/homedetails/433-Rapp-Rd-Valatie-NY-12184/30013063_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/b0a9600df9a081f801fad514a44cfeb5-cc_ft_1536.webp"
   },
@@ -132,6 +142,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 5,
     "address": "2295 State Route 32 S, New Paltz, NY 12561",
+    "lat": 41.686662,
+    "lng": -74.105534,
     "zillow": "https://www.zillow.com/homedetails/2295-State-Route-32-S-New-Paltz-NY-12561/2067504951_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/3aab085773b25909677d14bafc61e3c7-cc_ft_1536.webp"
   },
@@ -183,6 +195,8 @@ window.HOUSES = [
     "Comments": "Added by Leigh. Love the creek, barn etc",
     "score": 4,
     "address": "9960 Route 22, Hillsdale, NY 12529",
+    "lat": 42.2155,
+    "lng": -73.5058,
     "zillow": "https://www.zillow.com/homedetails/9960-Route-22-Hillsdale-NY-12529/451041807_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/dab0b33b18e9f491c15814ffde643c42-cc_ft_1536.webp"
   },
@@ -200,6 +214,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 4,
     "address": "292 White Hill Rd, Hillsdale, NY 12529",
+    "lat": 42.228162,
+    "lng": -73.471211,
     "zillow": "https://www.zillow.com/homedetails/292-White-Hill-Rd-Hillsdale-NY-12529/98648773_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/a5e39d775ec3845324dae438325860b5-cc_ft_1536.webp"
   },
@@ -217,6 +233,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 4,
     "address": "62 E Meadowbrook Lane, Staatsburg, NY 12580",
+    "lat": 41.8487,
+    "lng": -73.8367,
     "zillow": "https://www.zillow.com/homedetails/62-E-Meadowbrook-Ln-Staatsburg-NY-12580/30092046_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/41ff3d635f156dd84126630f9c4f88da-cc_ft_1536.webp"
   },
@@ -234,6 +252,8 @@ window.HOUSES = [
     "Comments": "modern, new construction, multiple buildings. not cozy",
     "score": 4,
     "address": "130 Cedar Drive, Kerhonkson, NY 12446",
+    "lat": 41.8305,
+    "lng": -74.2902,
     "zillow": "https://www.zillow.com/homedetails/130-Cedar-Dr-Kerhonkson-NY-12446/32861155_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/b49eac641351c90e926bba71d9f1ae27-sc_1920_1280.webp"
   },
@@ -251,6 +271,8 @@ window.HOUSES = [
     "Comments": "interesting - might not be our style",
     "score": 3,
     "address": "15-18 Normandy Grange, Garrison, NY 10524",
+    "lat": 41.3932,
+    "lng": -73.9323,
     "zillow": "https://www.zillow.com/homedetails/15-18-Normandy-Grange-Garrison-NY-10524/208536582_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/92dfdad883ad1666e3a7c5bf821c147d-cc_ft_1536.webp"
   },
@@ -268,6 +290,8 @@ window.HOUSES = [
     "Comments": "",
     "score": 3,
     "address": "823 N Quaker Hill Road, Pawling, NY 12564",
+    "lat": 41.574528,
+    "lng": -74.454833,
     "zillow": "https://www.zillow.com/homedetails/823-N-Quaker-Hill-Rd-Pawling-NY-12564/30121260_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/66ebd4b14751a5f1e524260b57294710-cc_ft_1536.webp"
   },
@@ -285,6 +309,8 @@ window.HOUSES = [
     "Comments": "bricked over fire places",
     "score": 3,
     "address": "79 Cemetery Rd, East Chatham, NY 12060",
+    "lat": 42.35899,
+    "lng": -73.597093,
     "zillow": "https://www.zillow.com/homedetails/79-Cemetery-Rd-East-Chatham-NY-12060/30000929_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/95d14807199f520478bea9b4ad3f0492-cc_ft_1536.webp"
   },
@@ -319,6 +345,8 @@ window.HOUSES = [
     "Comments": "pretty far west",
     "score": 3,
     "address": "55 Leggett Road, Stone Ridge, NY 12484",
+    "lat": 41.850122,
+    "lng": -74.13631,
     "zillow": "https://www.zillow.com/homedetails/55-Leggett-Rd-Stone-Ridge-NY-12484/32850142_zpid/",
     "picUrl": "https://photos.zillowstatic.com/fp/0511fcf3ecf4a14c451c33f8cbaf72ab-cc_ft_1536.webp"
   }
